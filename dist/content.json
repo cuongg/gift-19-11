@@ -9,7 +9,7 @@
       "faceMode": "photo",
       "name": "Em",
       "recipient": "anh",
-      "photo": "/assets/content/nhan-vat.webp",
+      "photo": "/assets/content/nhan-vat.jpg",
       "zoom": 1.1,
       "rotation": -6,
       "x": -10,
@@ -26,71 +26,120 @@
     "enableSpace": true,
     "enableMergeGame": true,
     "mergeImages": [
-      "/assets/content/tro-choi-01.webp",
-      "/assets/content/tro-choi-02.webp",
-      "/assets/content/tro-choi-03.webp",
-      "/assets/content/tro-choi-04.webp"
+      "/assets/content/tro-choi-01.jpg",
+      "/assets/content/tro-choi-02.jpg",
+      "/assets/content/tro-choi-03.jpg",
+      "/assets/content/tro-choi-04.jpg"
     ],
     "memories": [
       {
         "id": "f5ef2cd1-2a63-40f0-8ee8-95c0697b41f5",
-        "image": "/assets/content/ky-niem-01.webp",
+        "image": "/assets/content/ki-niem-01.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "ac6a4418-c7c5-4b31-ba54-cf34db021533",
-        "image": "/assets/content/ky-niem-02.webp",
+        "image": "/assets/content/ki-niem-02.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "253837bf-99bd-4370-9566-c57660d5fbf4",
-        "image": "/assets/content/ky-niem-03.webp",
+        "image": "/assets/content/ki-niem-03.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "d28a9810-192f-43b2-97df-af0dc8e46b05",
-        "image": "/assets/content/ky-niem-04.webp",
+        "image": "/assets/content/ki-niem-04.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "558b5b40-bf20-43f2-9e06-669d89b727ad",
-        "image": "/assets/content/ky-niem-05.webp",
+        "image": "/assets/content/ki-niem-05.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "9ae1fec4-633f-403e-b1e3-bc06f7c8adba",
-        "image": "/assets/content/ky-niem-06.webp",
+        "image": "/assets/content/ki-niem-06.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "4b3d0f2e-adad-4ffa-b041-d42f4c5caeca",
-        "image": "/assets/content/ky-niem-07.webp",
+        "image": "/assets/content/ki-niem-07.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "c5ce4836-5135-45b6-8e3d-f58c337f94e0",
-        "image": "/assets/content/ky-niem-08.webp",
+        "image": "/assets/content/ki-niem-08.jpg",
         "title": "",
         "wish": "",
         "frame": false
       },
       {
         "id": "fe503864-718b-44cb-9ea6-c188fc038870",
-        "image": "/assets/content/ky-niem-09.webp",
+        "image": "/assets/content/ki-niem-09.jpg",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "f8a045a1-5215-4806-ba82-0a4de0e1ab07",
+        "image": "/assets/content/ki-niem-10.JPEG",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "599b91bd-f7ad-40b9-b76b-6053e38675c3",
+        "image": "/assets/content/ki-niem-11.jpg",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "85151b0e-f386-4dd3-bc09-f36623fcaa8d",
+        "image": "/assets/content/ki-niem-12.jpg",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "847f2479-9fce-42f2-b32e-ecfdf92e8fde",
+        "image": "/assets/content/ki-niem-13.jpg",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "1915e89d-acdd-4c50-9588-72bba39bbd62",
+        "image": "/assets/content/ki-niem-14.JPEG",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "bba4ba9f-68ca-4920-b5a0-719f25e7bf98",
+        "image": "/assets/content/ki-niem-15.jpg",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "5bd41094-8276-42bb-8b4c-c89d0a5220b7",
+        "image": "/assets/content/ki-niem-16.jpg",
         "title": "",
         "wish": "",
         "frame": false
@@ -165,7 +214,7 @@
       },
       {
         "id": "522329f7-c970-46a3-8e68-abd818565692",
-        "image": "/assets/content/trang-tri-05.webp"
+        "image": "/assets/content/trang-tri-05.jpg"
       },
       {
         "id": "08381d43-6899-42e7-8041-090ae27d7454",
