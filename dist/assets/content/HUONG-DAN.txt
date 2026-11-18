@@ -1,0 +1,11 @@
+THAY ANH
+
+nhan-vat.webp: Anh khuon mat nhan vat dan duong.
+tro-choi-01.webp den tro-choi-04.webp: Anh cac cap trong tro choi.
+ky-niem-01.webp den ky-niem-09.webp: Anh trong khong gian ky niem.
+trang-tri-01.webp den trang-tri-06.webp: Anh trang tri rieng.
+
+Ghi de dung ten file de khong can sua content.json. Anh hien tai la WebP; hay xuat/chuyen anh moi sang WebP, khong chi doi duoi JPG/PNG thanh .webp.
+Neu muon giu JPG/PNG, sua duoi file trong dist/content.json cho khop.
+Sau khi thay anh, nhan Ctrl+F5 trong trinh duyet.
+Ban HTML offline can duoc dong goi lai de nhan anh moi.

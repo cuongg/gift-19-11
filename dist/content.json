@@ -1,0 +1,179 @@
+{
+  "success": true,
+  "data": {
+    "websiteId": "61f15939408dab54",
+    "productType": "boysday",
+    "configVersion": 1,
+    "character": {
+      "characterId": "cream-bear",
+      "faceMode": "photo",
+      "name": "Em",
+      "recipient": "anh",
+      "photo": "/assets/content/nhan-vat.webp",
+      "zoom": 1.1,
+      "rotation": -6,
+      "x": -10,
+      "y": 4,
+      "cutout": true,
+      "headAnchor": {
+        "x": 0.4600401767286431,
+        "y": 0.7041442128187718,
+        "ratio": 1.0897155361050328,
+        "faceWidth": 0.44153198180907216
+      }
+    },
+    "greeting": "Anh ơi, theo em nhé ♡",
+    "enableSpace": true,
+    "enableMergeGame": true,
+    "mergeImages": [
+      "/assets/content/tro-choi-01.webp",
+      "/assets/content/tro-choi-02.webp",
+      "/assets/content/tro-choi-03.webp",
+      "/assets/content/tro-choi-04.webp"
+    ],
+    "memories": [
+      {
+        "id": "f5ef2cd1-2a63-40f0-8ee8-95c0697b41f5",
+        "image": "/assets/content/ky-niem-01.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "ac6a4418-c7c5-4b31-ba54-cf34db021533",
+        "image": "/assets/content/ky-niem-02.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "253837bf-99bd-4370-9566-c57660d5fbf4",
+        "image": "/assets/content/ky-niem-03.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "d28a9810-192f-43b2-97df-af0dc8e46b05",
+        "image": "/assets/content/ky-niem-04.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "558b5b40-bf20-43f2-9e06-669d89b727ad",
+        "image": "/assets/content/ky-niem-05.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "9ae1fec4-633f-403e-b1e3-bc06f7c8adba",
+        "image": "/assets/content/ky-niem-06.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "4b3d0f2e-adad-4ffa-b041-d42f4c5caeca",
+        "image": "/assets/content/ky-niem-07.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "c5ce4836-5135-45b6-8e3d-f58c337f94e0",
+        "image": "/assets/content/ky-niem-08.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      },
+      {
+        "id": "fe503864-718b-44cb-9ea6-c188fc038870",
+        "image": "/assets/content/ky-niem-09.webp",
+        "title": "",
+        "wish": "",
+        "frame": false
+      }
+    ],
+    "wishes": [
+      "em cảm thấy rất may mắn vì có anh",
+      "Hãy cứ là chính anh nhé.",
+      "Em luôn ở đây.",
+      "Mong anh luôn bình yên.",
+      "Cười nhiều lên anh nhé ♡",
+      "em iu anh ♡",
+      "đừng để bị ốm nghe chưa",
+      "mãi yêu em như thế này nhé",
+      "ăn uống đầy đủ, ngủ nhiều hơn, đừng làm quá sức anh nhá",
+      "em tự hào về anh ♡"
+    ],
+    "enableBouquet": false,
+    "bouquetImages": [],
+    "bouquetCutouts": [],
+    "enableLetter": true,
+    "letter": {
+      "text": "Gửi anh ,\n\nThế giới ngoài kia có thể rất áp lực và mệt mỏi, nhưng hãy nhớ rằng về nhà luôn có em chờ anh. Chúc anh ngày 19/11 thật trọn vẹn, gạt bỏ mọi lo toan để tận hưởng niềm vui. Chúc cho tình yêu của chúng ta ngày càng bền chặt.\n\n\nmãi iu anhhh ♡",
+      "photo": "",
+      "signature": "",
+      "envelope": {
+        "topLine": "Dành tặng bạn",
+        "headline": "19/11",
+        "bottomLine": "Một chút thương ♡"
+      }
+    },
+    "spaceColor": "#111329",
+    "bgMusic": "/assets/content/somotthegioi.mp3",
+    "autoDrift": true,
+    "decorations": true,
+    "decorationIds": [
+      "sticker-0",
+      "sticker-1",
+      "sticker-2",
+      "sticker-3",
+      "sticker-4",
+      "sticker-5",
+      "sticker-6",
+      "sticker-7",
+      "sticker-9",
+      "sticker-10",
+      "sticker-11",
+      "sticker-12",
+      "sticker-13",
+      "sticker-14",
+      "sticker-15",
+      "sticker-16",
+      "sticker-17",
+      "sticker-18"
+    ],
+    "customDecorations": [
+      {
+        "id": "8e25f7f8-5dc5-4d6d-989b-0e400ccca4e1",
+        "image": "/assets/content/trang-tri-01.webp"
+      },
+      {
+        "id": "c1c97ff3-2dcf-4063-adb0-21212b968aeb",
+        "image": "/assets/content/trang-tri-02.webp"
+      },
+      {
+        "id": "56665bec-e7b6-4d8d-b2a7-79da0bedb230",
+        "image": "/assets/content/trang-tri-03.webp"
+      },
+      {
+        "id": "95311e3a-8159-4b49-b53f-3be310ab588b",
+        "image": "/assets/content/trang-tri-04.webp"
+      },
+      {
+        "id": "522329f7-c970-46a3-8e68-abd818565692",
+        "image": "/assets/content/trang-tri-05.webp"
+      },
+      {
+        "id": "08381d43-6899-42e7-8041-090ae27d7454",
+        "image": "/assets/content/trang-tri-06.webp"
+      }
+    ],
+    "expiresAt": "2026-12-12T13:28:32.273Z",
+    "createdAt": "2026-11-12T13:28:31.492Z",
+    "showWatermark": false
+  }
+}
