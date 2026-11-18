@@ -26,10 +26,10 @@
     "enableSpace": true,
     "enableMergeGame": true,
     "mergeImages": [
-      "/assets/content/tro-choi-01.jpg",
-      "/assets/content/tro-choi-02.jpg",
-      "/assets/content/tro-choi-03.jpg",
-      "/assets/content/tro-choi-04.jpg"
+      "/assets/content/tro-choi-01.webp",
+      "/assets/content/tro-choi-02.webp",
+      "/assets/content/tro-choi-03.webp",
+      "/assets/content/tro-choi-04.webp"
     ],
     "memories": [
       {
@@ -146,16 +146,12 @@
       }
     ],
     "wishes": [
-      "em cảm thấy rất may mắn vì có anh",
-      "Hãy cứ là chính anh nhé.",
-      "Em luôn ở đây.",
-      "Mong anh luôn bình yên.",
+      "cảm ơn anh vì đã đến",
+      "Mong anh luôn bình an",
       "Cười nhiều lên anh nhé ♡",
       "em iu anh ♡",
-      "đừng để bị ốm nghe chưa",
-      "mãi yêu em như thế này nhé",
-      "ăn uống đầy đủ, ngủ nhiều hơn, đừng làm quá sức anh nhá",
-      "em tự hào về anh ♡"
+      "em tự hào về anh ♡",
+      "Thật may vì có anh ♡"
     ],
     "enableBouquet": false,
     "bouquetImages": [],
@@ -175,50 +171,31 @@
     "bgMusic": "/assets/content/somotthegioi.mp3",
     "autoDrift": true,
     "decorations": true,
-    "decorationIds": [
-      "sticker-0",
-      "sticker-1",
-      "sticker-2",
-      "sticker-3",
-      "sticker-4",
-      "sticker-5",
-      "sticker-6",
-      "sticker-7",
-      "sticker-9",
-      "sticker-10",
-      "sticker-11",
-      "sticker-12",
-      "sticker-13",
-      "sticker-14",
-      "sticker-15",
-      "sticker-16",
-      "sticker-17",
-      "sticker-18"
-    ],
+    "decorationIds": [],
     "customDecorations": [
       {
         "id": "8e25f7f8-5dc5-4d6d-989b-0e400ccca4e1",
-        "image": "/assets/content/trang-tri-01.webp"
+        "image": "/assets/content/trang-tri-01.webp?v=2830735afd9f"
       },
       {
         "id": "c1c97ff3-2dcf-4063-adb0-21212b968aeb",
-        "image": "/assets/content/trang-tri-02.webp"
+        "image": "/assets/content/trang-tri-02.webp?v=afdd8e0806d8"
       },
       {
         "id": "56665bec-e7b6-4d8d-b2a7-79da0bedb230",
-        "image": "/assets/content/trang-tri-03.webp"
+        "image": "/assets/content/trang-tri-03.webp?v=eabe6e2c2a3b"
       },
       {
         "id": "95311e3a-8159-4b49-b53f-3be310ab588b",
-        "image": "/assets/content/trang-tri-04.webp"
+        "image": "/assets/content/trang-tri-04.webp?v=a956e19c11fa"
       },
       {
         "id": "522329f7-c970-46a3-8e68-abd818565692",
-        "image": "/assets/content/trang-tri-05.jpg"
+        "image": "/assets/content/trang-tri-05.webp?v=707b691e1db4"
       },
       {
         "id": "08381d43-6899-42e7-8041-090ae27d7454",
-        "image": "/assets/content/trang-tri-06.webp"
+        "image": "/assets/content/trang-tri-06.webp?v=97967885aa8b"
       }
     ],
     "expiresAt": "2026-12-12T13:28:32.273Z",
